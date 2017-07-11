@@ -13,3 +13,7 @@ Creating a new branch is quick & simple.
 mondyfirst
 mondey
 13131
+<<<<<<< HEAD
+=======
+333333
+>>>>>>> dev
